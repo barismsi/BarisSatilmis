@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @BarisSatilmis
+- 👋 Hello, I'm Baris
 - 👀 I am interested in programming, cyber security
 - 🌱 I am currently learning Cyber Security
 - 💞️ I love to collaborate

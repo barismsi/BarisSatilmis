@@ -3,7 +3,7 @@
 - 🌱 I am currently learning Cyber Security
 - 💞️ I love to collaborate
 - 📫 you can reach me on these channel
-Mail:barissatilmis26@gmail.com
+Mail: barissatilmis26@gmail.com
 
 
 <!---
